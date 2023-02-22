@@ -8,7 +8,7 @@
 ;; X11 specific
 (when (eq window-system 'x)
   (scroll-bar-mode -1)
-  (set-default-font "terminus-12")
+  (set-frame-font "terminus-16")
   ;; face
   (dolist (elem '((bold "LightGoldenrod")
 		  (underline "PaleGreen")
