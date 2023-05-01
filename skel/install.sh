@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/bash
 
 # xpywm installation script for Debian GNU/Linux.
 
